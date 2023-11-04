@@ -1,0 +1,15 @@
+C:\Users\shilo\source\repos\ICETASK4\bin\Debug\net7.0\ICETASK4.exe
+C:\Users\shilo\source\repos\ICETASK4\bin\Debug\net7.0\ICETASK4.deps.json
+C:\Users\shilo\source\repos\ICETASK4\bin\Debug\net7.0\ICETASK4.runtimeconfig.json
+C:\Users\shilo\source\repos\ICETASK4\bin\Debug\net7.0\ICETASK4.dll
+C:\Users\shilo\source\repos\ICETASK4\bin\Debug\net7.0\ICETASK4.pdb
+C:\Users\shilo\source\repos\ICETASK4\obj\Debug\net7.0\ICETASK4.csproj.AssemblyReference.cache
+C:\Users\shilo\source\repos\ICETASK4\obj\Debug\net7.0\ICETASK4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shilo\source\repos\ICETASK4\obj\Debug\net7.0\ICETASK4.AssemblyInfoInputs.cache
+C:\Users\shilo\source\repos\ICETASK4\obj\Debug\net7.0\ICETASK4.AssemblyInfo.cs
+C:\Users\shilo\source\repos\ICETASK4\obj\Debug\net7.0\ICETASK4.csproj.CoreCompileInputs.cache
+C:\Users\shilo\source\repos\ICETASK4\obj\Debug\net7.0\ICETASK4.dll
+C:\Users\shilo\source\repos\ICETASK4\obj\Debug\net7.0\refint\ICETASK4.dll
+C:\Users\shilo\source\repos\ICETASK4\obj\Debug\net7.0\ICETASK4.pdb
+C:\Users\shilo\source\repos\ICETASK4\obj\Debug\net7.0\ICETASK4.genruntimeconfig.cache
+C:\Users\shilo\source\repos\ICETASK4\obj\Debug\net7.0\ref\ICETASK4.dll
